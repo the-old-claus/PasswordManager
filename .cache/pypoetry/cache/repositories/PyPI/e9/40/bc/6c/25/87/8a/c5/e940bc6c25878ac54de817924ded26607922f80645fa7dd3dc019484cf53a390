@@ -1,0 +1,1 @@
+9999999999{"name": "english-words", "version": "2.0.1", "summary": "Generate sets of english words by combining different word lists", "requires_dist": null, "requires_python": null, "files": [{"file": "english-words-2.0.1.tar.gz", "hash": "sha256:a4105c57493bb757a3d8973fcf8e1dc05e7ca09c836dff467c3fb445f84bc43d"}], "yanked": false, "_cache_version": "2.0.0"}
